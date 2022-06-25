@@ -1,0 +1,2 @@
+# postgres_exporter
+针对Prometheus的PostgreSQL指标探针
